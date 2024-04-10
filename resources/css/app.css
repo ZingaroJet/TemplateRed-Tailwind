@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import './style.css';
+
+*{
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 500;
+    font-style: normal;;
+}
+
+h1,h2,h3,h4{
+    font-family: "Nova Square", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
